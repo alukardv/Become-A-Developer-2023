@@ -16,4 +16,4 @@ def search_first_letter(world_of_search):
             break
     return letter
 
-print(search_first_letter(search_letter(words_input)))
+print('Answer: ' + search_first_letter(search_letter(words_input)))
